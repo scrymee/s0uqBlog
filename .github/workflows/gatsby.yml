@@ -44,6 +44,7 @@ jobs:
           npm install -g gatsby-cli
           pwd
           gatsby -v
+          npm install
       - name: DEBUG
         env:
           DEBUG: ${{ toJson(github.event) }}
