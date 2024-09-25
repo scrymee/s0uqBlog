@@ -42,6 +42,8 @@ jobs:
       - name: Install gatsby CLI
         run: |
           npm install -g gatsby-cli
+          pwd
+          gatsby -v
       - name: DEBUG
         env:
           DEBUG: ${{ toJson(github.event) }}
@@ -77,8 +79,6 @@ jobs:
            $POST_BODY
       - name: 静的ファイルの生成(Build with gatsby)
         run: |
-          pwd
-          cd ../../
           pwd
           gatsby build
       - name: public以下のファイルをpush
