@@ -1,121 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2024 13:37:02 GMT</lastBuildDate><item><title><![CDATA[テスト]]></title><description><![CDATA[テストテスト3]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2547939288/2547939288/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2547939288/2547939288/</guid><pubDate>Wed, 25 Sep 2024 13:35:30 GMT</pubDate><content:encoded>&lt;p&gt;テストテスト3&lt;/p&gt;</content:encoded></item><item><title><![CDATA[納品物としての設計書の書き方]]></title><description><![CDATA[フォーマル設計書に触れてきて。
-実装フロー・使用するデータがイメージでき、画面設計も共有が容易
-それでいて変更が容 https://neos21.net/blog/2019/10/07-01.html
-https://qiita.com/y-some/items/90651c1e…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/20240922mypost1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/20240922mypost1/</guid><pubDate>Tue, 28 May 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;フォーマル設計書に触れてきて。
-実装フロー・使用するデータがイメージでき、画面設計も共有が容易
-それでいて変更が容&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://neos21.net/blog/2019/10/07-01.html&quot;&gt;https://neos21.net/blog/2019/10/07-01.html&lt;/a&gt;
-&lt;a href=&quot;https://qiita.com/y-some/items/90651c1e27f7798f87c6&quot;&gt;https://qiita.com/y-some/items/90651c1e27f7798f87c6&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;設計書の種類&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;概要
-&lt;ul&gt;
-&lt;li&gt;前提（対象のユーザー）&lt;/li&gt;
-&lt;li&gt;機能の役割&lt;/li&gt;
-&lt;li&gt;入力値チェック&lt;/li&gt;
-&lt;li&gt;アクセス・表示制御（値・条件）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;画面設計書
-&lt;ul&gt;
-&lt;li&gt;操作方法の説明&lt;/li&gt;
-&lt;li&gt;画面名（PC・スマホ・タブレット）&lt;/li&gt;
-&lt;li&gt;表示内容&lt;/li&gt;
-&lt;li&gt;画面遷移（遷移先の画面名・エラーページ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;バッチ設計書
-&lt;ul&gt;
-&lt;li&gt;バッチ名・トリガー・実行方法（手動or自動)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;表示項目・HTML要素の表示位置を図形でイメージできるようにしたもの。
-クリックしたときの挙動についても、矢印を用いて表示する。&lt;/p&gt;
-&lt;p&gt;DB設計書&lt;/p&gt;
-&lt;p&gt;ヘッダー
-ヘッダーシートを作成し、「リンクされた図」を&lt;/p&gt;
-&lt;h2&gt;表現&lt;/h2&gt;
-&lt;p&gt;・本画面では＊＊＊＊をできる
-・＊＊＊＊するときに本画面を利用する&lt;/p&gt;
-&lt;h2&gt;変更に強い&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;図形は極力避ける。矢印だけは使ってよい&lt;/li&gt;
-&lt;li&gt;画面設計にあたり、不要な部分の作りこみは不要。
-&lt;ul&gt;
-&lt;li&gt;コアドメイン部分はキャプチャやイラストを引用しても良い。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2024 13:53:34 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/2547939288/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2547939288/</guid><content:encoded></content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -232,7 +115,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -245,13 +128,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        src=&quot;/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/s0uqBlog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
