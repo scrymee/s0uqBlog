@@ -55,9 +55,9 @@ jobs:
         env: 
           POST_ID: ${{ github.event.issue.id }}
         run: |
-          find . -name $POST_ID.md 
-          find . -name $POST_ID.md | xargs rm
-          find . -name $POST_ID.md 
+          find . -name $POST_ID/index.md 
+          find . -name $POST_ID/index.md | xargs rm
+          find . -name $POST_ID/index.md 
           echo 'end'
       - name: gatsbyの記法に合わせてファイルを生成（Generate Post）
         if: ${{ github.event.action == 'opened' || github.event.action == 'edited' }}
@@ -72,7 +72,7 @@ jobs:
            mkdir -p content/blog/$POST_ID
            touch content/blog/$POST_ID/index.md
            cd content/blog/$POST_ID
-           cat > $index.md <<EOF
+           cat > index.md <<EOF
            ---
            title: $POST_TITLE
            date: ${{ github.event.issue.updated_at }}
