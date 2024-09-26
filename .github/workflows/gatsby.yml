@@ -85,6 +85,7 @@ jobs:
           gatsby build --prefix-paths
           ls -1
           ls -R content/blog
+          rm -rf docs/
           mv public/ docs/
           ls -1
       - name: public以下のファイルをpush
