@@ -10,15 +10,15 @@
 module.exports = {
   pathPrefix: `/s0uqBlog`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `s0uq Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `スーク`,
+      summary: `PHP VB.net C# .`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `WIP.`,
+    siteUrl: `https://scrymee.github.io/s0uqBlog/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `s0u9q`,
     },
   },
   plugins: [
