@@ -75,7 +75,7 @@ jobs:
            cat > index.md <<EOF
            ---
            title: $POST_TITLE
-           date: ${{ github.event.issue.updated_at }}
+           date: "${{ github.event.issue.updated_at }}"
            ---
 
            $POST_BODY
