@@ -75,7 +75,7 @@ jobs:
            cat > index.md <<EOF
            ---
            title: $POST_TITLE
-           date: "${{ github.event.issue.updated_at }}"
+           date: ${{ github.event.issue.updated_at }}
            ---
 
            $POST_BODY
@@ -83,8 +83,9 @@ jobs:
         run: |
           pwd
           gatsby build --prefix-paths
+          ls content/blog
           mv public/ docs/
-          ls
+          ls -1
       - name: public以下のファイルをpush
         env: 
           EMAIL: ${{secrets.EMAIL}}
@@ -92,6 +93,7 @@ jobs:
            date > genereate.txt
            git config user.name scrymee
            git config user.email "$EMAIL"
+           ls -1
            git add ./content/blog
            git add ./docs
            git status
