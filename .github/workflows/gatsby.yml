@@ -83,7 +83,8 @@ jobs:
         run: |
           pwd
           gatsby build --prefix-paths
-          ls content/blog
+          ls -1
+          ls -R content/blog
           mv public/ docs/
           ls -1
       - name: public以下のファイルをpush
