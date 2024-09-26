@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 Sep 2024 12:31:33 GMT</lastBuildDate><item><title><![CDATA[テスト]]></title><description><![CDATA[テストテスト5 20文字テキスト 〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
-test]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2547939288/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2547939288/</guid><pubDate>Thu, 26 Sep 2024 12:30:01 GMT</pubDate><content:encoded>&lt;p&gt;テストテスト5&lt;/p&gt;
-&lt;h1&gt;20文字テキスト&lt;/h1&gt;
-&lt;p&gt;〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
-test&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 Sep 2024 12:58:30 GMT</lastBuildDate><item><title><![CDATA[テスト]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2547939288/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2547939288/</guid><pubDate>Thu, 26 Sep 2024 12:57:02 GMT</pubDate><content:encoded>&lt;p&gt;あまり近しい関係ではないにも関わらず懐に入るのが上手かったり、ちょっとした間を繋ぐ会話を繋いでくれる人がいる。別に会話などなくても良いのだが、アイスブレイクというようにその後の関係性が円滑になるようにも思える。&lt;/p&gt;
+&lt;p&gt;雑談の効力みたいなのはなんとなく理解はしているけど、自分はそういった魔を埋めるトークが苦手だったりする。得意な人を観察したときの特徴を備忘録としてまとめる。&lt;/p&gt;
+&lt;h2&gt;普段との違いに気がつく&lt;/h2&gt;
+&lt;p&gt;雑談が上手い人は比較していることが多い気がする。「（昨日と比べて）急に寒くなったね〜」とか。スマホのゲーム画面がチラリと見えて、そこから話題を広げるとか。割と違うことは会話のきっかけになることが多い。&lt;/p&gt;
+&lt;h2&gt;物事を腹落ちするまで深く理解している&lt;/h2&gt;
+&lt;p&gt;身の回りの物事に興味を持っている人が多い。芸能人の名前がすぐ出てくる。自分の知識をアピールするのではなく、相手に合わせて自分の経験の引き出しから話題を引っ張り出しているイメージが近い。完全に理解する必要はなくて、自分の知っている範囲でも興味を持つ。&lt;/p&gt;
+&lt;h2&gt;ポリシーがある&lt;/h2&gt;
+&lt;p&gt;自分の中で「好きなもの」「興味のあること」が明確な人が多い気がする。他人の顔色を窺いながら言葉を選ぶばかりでなく、自分の考えや意見は主張する。そういう人との会話は「自分が体験した出来事」が多いので、話を聞いていて楽しい。。度が過ぎるのは良くないが、多少強引なくらいが心地よかったりする。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://scrymee.github.io/s0uqBlog/new-beginnings/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -95,12 +98,12 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://scrymee.github.io/s0uqBlog/my-second-post/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.&quot;?
 (&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://scrymee.github.io/s0uqBlog/hello-world/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
