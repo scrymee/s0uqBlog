@@ -76,6 +76,7 @@ jobs:
            ---
            title: $POST_TITLE
            date: ${{ github.event.issue.updated_at }}
+           description: ${POST_BODY:0:20}...
            ---
 
            $POST_BODY
