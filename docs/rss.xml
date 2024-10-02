@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Oct 2024 12:30:09 GMT</lastBuildDate><item><title><![CDATA[要件定義をうまく進める人の特徴]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2560624543/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2560624543/</guid><pubDate>Wed, 02 Oct 2024 12:28:39 GMT</pubDate><content:encoded>&lt;p&gt;要件定義の上手い人がいる。要件定義フェーズでは、抽象的な要望で実際に実装に落とし込むための正解も見えず、自分も相手も要望が不明瞭な時も多い。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Oct 2024 13:00:47 GMT</lastBuildDate><item><title><![CDATA[知らない事への恐怖に向き合う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2554691194/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2554691194/</guid><pubDate>Wed, 02 Oct 2024 12:59:13 GMT</pubDate><content:encoded>&lt;p&gt;思い通りにいかずに、冷静な判断ができなくなったり、焦って思ってもいないことを口に出して後悔する。特に抽象的な課題と向き合うようになって、そのような場面に陥りがちだったりする。&lt;/p&gt;
+&lt;p&gt;アンガーマネジメントの手法とかもあるのは知っているが、ケースバイケースで考えるほうがしっくりくるので、自分がどういうときに冷静になれないかをざっくりまとめる。&lt;/p&gt;
+&lt;h2&gt;「何をしたらいいんだよ！」と思うとき&lt;/h2&gt;
+&lt;p&gt;経験のない未知の役割を託されたときに、思ってしまうことが多い。例えば、知らないインフラのメリデメを考えるとか、今までやったことのない工程を任されるとか。&lt;/p&gt;
+&lt;p&gt;こういうときは、その現象と直接向き合っても解決策が見つからなかったりする。&lt;/p&gt;
+&lt;p&gt;自分なりの解決策としては、「何を知らないのか」を考えて落ち着くことが多い。
+特に今はAIに壁打ち役に徹してもらえるので、なんとなく腹落ちする意見を聞けたりする。&lt;/p&gt;
+&lt;p&gt;最近の例であれば、「要件定義をしてほしい」と言われたとき。
+今まで基本設計～実装を主にやっていた自分の感覚だと、要件定義は基本設計や詳細設計と並行でする必要があると思い込んでいた。&lt;/p&gt;
+&lt;p&gt;そういう不安なときに、割と腹落ちする意見を見た。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要件定義は、【なぜ】やりたいか、と【何を】やりたいかを明確にする作業で、基本設計は、【どうやって】やるか&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正しいかはさておき、自分なりの不明点を明確にして腹落ちさせる作業を入れるのはよさそう。ドキュメントや過去事例があるなら、相談してみるのもよい。&lt;/p&gt;
+&lt;h2&gt;「なんでやってくれないんだ！」と思うとき&lt;/h2&gt;
+&lt;p&gt;指示を受けたときに「なんでやらないの？」と言われると当然苦しい。ただ、指示する側になったときに、口に出すことは当然ないが、そう思ってしまうことがあり落ち込むときがある。自分もひどくダブスタ…。&lt;/p&gt;
+&lt;p&gt;この場合は、大体その人にはできない事情があることが多い。スキル的に難しかったり、別プロジェクトの差し込みがあったり…etc。その事情を知らないから、何かしら感情が動いてしまう。&lt;/p&gt;
+&lt;p&gt;そういった部分は、マイクロマネジメントにならないように、しっかりと知っていく必要がある。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「他者が『こうすればいいのに』と思うとき、そこにはできない理由がある」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好きな漫画にこういったセリフがあるので、しっかり胸に秘めておく。&lt;/p&gt;
+&lt;h2&gt;「なんでこんなことを言われるんだ！」と思うとき&lt;/h2&gt;
+&lt;p&gt;これも同様に、相手がそれを伝える事情があったりする。大体視座の高い観点の話になる。売り上げだったり、利益率だったり。&lt;/p&gt;
+&lt;p&gt;自分の今まで経験した仕事よりも高い負荷の課題に取り組んでいると、そう言われることが多い気がする。自分も手一杯だったり、解決策が見当たらないときに、正論を言われつらくなる。ただ、こういうときは、考慮すべき観点が抜け落ちていたりする。&lt;/p&gt;
+&lt;p&gt;「何がわからないかわからない状態」のときは特に恐怖を覚えるのだけど、優しい人は、考え方と理由を丁寧に伝えてくれるので、そういうのは素直に聞くのが筋。ただ、たまに言い方に癖が強い人もいるので、念頭に置くとよさそう。&lt;/p&gt;
+&lt;h2&gt;参考にしたい&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/tumada/jie-xiang-du-wogao-meru&quot;&gt;解像度を上げる 🔬 - Speaker Deck&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[要件定義をうまく進める人の特徴]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2560624543/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2560624543/</guid><pubDate>Wed, 02 Oct 2024 12:28:39 GMT</pubDate><content:encoded>&lt;p&gt;要件定義の上手い人がいる。要件定義フェーズでは、抽象的な要望で実際に実装に落とし込むための正解も見えず、自分も相手も要望が不明瞭な時も多い。&lt;/p&gt;
 &lt;p&gt;そんなふわっとした状況下でも、その人に任せるといつのまにか、方針と役割が定まっていく。&lt;/p&gt;
 &lt;p&gt;作業プロセスが明確な課題に対してはそんなに苦手意識はない。ただ、何を決めたら良いか不明瞭な課題となると、とっかかりもわからず、悩み続けてしまう。&lt;/p&gt;
 &lt;p&gt;「えいや」と決めようとしても、現フェーズに考えるべきではない詳細な決め事を先んじて決めようとしてしまい、混乱を生んでしまう。&lt;/p&gt;
@@ -24,34 +51,7 @@
 &lt;p&gt;ゲーム事情に精通しているゲームクリエイター達に「MOTHERみたいな空気感」というと、具体的に説明せずとも雰囲気が伝わる。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;「巨人の方に乗る」も同じ意味かもしれない。&lt;/p&gt;
-&lt;p&gt;列挙しながら思ったけれど、「過去の事例を参考に事前準備をした上で、どうやって進めるか自分なりの進め方の仮説をもとに、進めている」というのが強い人に共通している気がする。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[知らない事への恐怖に向き合う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2554691194/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2554691194/</guid><pubDate>Sun, 29 Sep 2024 04:03:46 GMT</pubDate><content:encoded>&lt;p&gt;思い通りにいかずに、冷静な判断ができなくなったり、焦って思ってもいないことを口に出して後悔する。特に抽象的な課題と向き合うようになって、そのような場面に陥りがちだったりする。&lt;/p&gt;
-&lt;p&gt;アンガーマネジメントの手法とかもあるのは知っているが、ケースバイケースで考えるほうがしっくりくるので、自分がどういうときに冷静になれないかをざっくりまとめる。&lt;/p&gt;
-&lt;h2&gt;「何をしたらいいんだよ！」と思うとき&lt;/h2&gt;
-&lt;p&gt;未知の役割を託されたときに、思ってしまうことが多い。例えば、知らないインフラのメリデメを考えるとか、今までやったことのない工程を任されるとか。&lt;/p&gt;
-&lt;p&gt;こういうときは、その現象と直接向き合っても解決策が見つからなかったりする。&lt;/p&gt;
-&lt;p&gt;自分なりの解決策としては、「何を知らないのか」を考えて落ち着くことが多い。
-特に今はAIに壁打ち役に徹してもらえるので、なんとなく腹落ちする意見を聞けたりする。&lt;/p&gt;
-&lt;p&gt;最近の例であれば、「要件定義をしてほしい」と言われたとき。
-今まで基本設計～実装を主にやっていた自分の感覚だと、要件定義は基本設計や詳細設計と並行でする必要があると思い込んでいた。&lt;/p&gt;
-&lt;p&gt;そういう不安なときに、割と腹落ちする意見を見た。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;要件定義は、【なぜ】やりたいか、と【何を】やりたいかを明確にする作業で、基本設計は、【どうやって】やるか&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;正しいかはさておき、自分なりの不明点を明確にして腹落ちさせる作業を入れるのはよさそう。ドキュメントや過去事例があるなら、相談してみるのもよい。&lt;/p&gt;
-&lt;h2&gt;「なんでやってくれないんだ！」と思うとき&lt;/h2&gt;
-&lt;p&gt;指示を受けたときに「なんでやらないの？」と言われると当然苦しい。ただ、指示する側になったときに、口に出すことは当然ないが、そう思ってしまうことがあり落ち込むときがある。自分もひどくダブスタ…。&lt;/p&gt;
-&lt;p&gt;この場合は、大体その人にはできない事情があることが多い。スキル的に難しかったり、別プロジェクトの差し込みがあったり…etc。その事情を知らないから、何かしら感情が動いてしまう。&lt;/p&gt;
-&lt;p&gt;そういった部分は、マイクロマネジメントにならないように、しっかりと知っていく必要がある。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「他者が『こうすればいいのに』と思うとき、そこにはできない理由がある」&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;好きな漫画にこういったセリフがあるので、しっかり胸に秘めておく。&lt;/p&gt;
-&lt;h2&gt;「なんでこんなことを言われるんだ！」と思うとき&lt;/h2&gt;
-&lt;p&gt;これも同様に、相手がそれを伝える事情があったりする。大体視座の高い観点の話になる。売り上げだったり、利益率だったり。&lt;/p&gt;
-&lt;p&gt;自分の今まで経験した仕事よりも高い負荷の課題に取り組んでいると、そう言われることが多い気がする。自分も手一杯だったり、解決策が見当たらないときに、正論を言われつらくなる。ただ、こういうときは、考慮すべき観点が抜け落ちていたりする。&lt;/p&gt;
-&lt;p&gt;「何がわからないかわからない状態」のときは特に恐怖を覚えるのだけど、優しい人は、考え方と理由を丁寧に伝えてくれるので、そういうのは素直に聞くのが筋。ただ、たまに言い方に癖が強い人もいるので、念頭に置くとよさそう。&lt;/p&gt;
-&lt;h2&gt;参考にしたい&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/tumada/jie-xiang-du-wogao-meru&quot;&gt;解像度を上げる 🔬 - Speaker Deck&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[人に質問・依頼するタイミング]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2551694060/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2551694060/</guid><pubDate>Fri, 27 Sep 2024 00:41:48 GMT</pubDate><content:encoded>&lt;p&gt;これまで人から依頼を受けそれを着手することが多かったけれども、最近は人のアサインを管理したり、抽象的な課題を取りまとめることが増えてきた。概要を整理してメンバーへお願いしたり、抽象的な課題で認識を合わせるために質問に伺ったりと、コミュニケーションが増えている。&lt;/p&gt;
+&lt;p&gt;列挙しながら思ったけれど、「過去の事例を参考に事前準備をした上で、どうやって進めるか自分なりの進め方の仮説をもとに、進めている」というのが強い人に共通している気がする。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[人に質問・依頼するタイミング]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2551694060/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2551694060/</guid><pubDate>Fri, 27 Sep 2024 00:41:48 GMT</pubDate><content:encoded>&lt;p&gt;これまで人から依頼を受けそれを着手することが多かったけれども、最近は人のアサインを管理したり、抽象的な課題を取りまとめることが増えてきた。概要を整理してメンバーへお願いしたり、抽象的な課題で認識を合わせるために質問に伺ったりと、コミュニケーションが増えている。&lt;/p&gt;
 &lt;p&gt;対人の機会が増えるにつれて、人に何かしらをお願いするときのタイミングがあるように気づいてきた。問題が発覚し次第、条件反射的に質問を投げかけても、本質がうまく解決しないことがあるみたい。「顧客は自分が本当に欲しいものを理解していない」という言葉があるが、まさにそれと同じ。特に自分の性格上、これを良くやってしまうので、一度整理しておく。&lt;/p&gt;
 &lt;h2&gt;雄弁は銀・沈黙は金&lt;/h2&gt;
 &lt;p&gt;分からない部分があっても条件反射的に対人に向けて行動はしないほうが良い。例えば困難に直面した時に不明点が不明瞭なまま勢いで質問に行ったり、とりあえずメンバーを集めて会議をしたり。優秀な人が筋道立てて整理してくれることもあるけれど、大体微妙な空気になってしまう。&lt;/p&gt;
