@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Oct 2024 11:08:10 GMT</lastBuildDate><item><title><![CDATA[要件定義をうまく進める人の特徴]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2560624543/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2560624543/</guid><pubDate>Wed, 02 Oct 2024 11:06:43 GMT</pubDate><content:encoded>&lt;p&gt;要件定義の上手い人がいる。要件定義フェーズでは、抽象的な要望で実際に実装に落とし込むための正解も見えず、自分も相手も要望が不明瞭な時も多い。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Oct 2024 12:30:09 GMT</lastBuildDate><item><title><![CDATA[要件定義をうまく進める人の特徴]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2560624543/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2560624543/</guid><pubDate>Wed, 02 Oct 2024 12:28:39 GMT</pubDate><content:encoded>&lt;p&gt;要件定義の上手い人がいる。要件定義フェーズでは、抽象的な要望で実際に実装に落とし込むための正解も見えず、自分も相手も要望が不明瞭な時も多い。&lt;/p&gt;
 &lt;p&gt;そんなふわっとした状況下でも、その人に任せるといつのまにか、方針と役割が定まっていく。&lt;/p&gt;
 &lt;p&gt;作業プロセスが明確な課題に対してはそんなに苦手意識はない。ただ、何を決めたら良いか不明瞭な課題となると、とっかかりもわからず、悩み続けてしまう。&lt;/p&gt;
 &lt;p&gt;「えいや」と決めようとしても、現フェーズに考えるべきではない詳細な決め事を先んじて決めようとしてしまい、混乱を生んでしまう。&lt;/p&gt;
@@ -9,7 +9,7 @@
 &lt;h2&gt;自分のやる・やらないの前提を切る&lt;/h2&gt;
 &lt;p&gt;予算を鑑みて、基本的には前提の認識合わせしている。根拠となる資料がある場合は、「この部分はこの範囲を前提としますね。」と言いながらテンポよく進めている。&lt;/p&gt;
 &lt;p&gt;こうやって進めても、前提を超える範囲も対応が必要になることもある。ただ、前提がある以上スケジュールや予算に対して相手の理解を得やすく、セーフティーネットになることが多い。&lt;/p&gt;
-&lt;h2&gt;ただの認識合わせは時間をかけず。しっかり詰めたいところは念入りに。&lt;/h2&gt;
+&lt;h2&gt;ただの認識合わせはさくっと、しっかり詰めたいところは念入りに&lt;/h2&gt;
 &lt;p&gt;各課題へ所要時間の観点を意識している。例えば、全てを会議の場で設けるのではなく事前ヒアリングシートの提示やマトリクス図を書いている。&lt;/p&gt;
 &lt;p&gt;逆に本質をクリアにするため、詳細をあえて削り、不要な議論を生まないよう、注意を払っているように見える。&lt;/p&gt;
 &lt;h2&gt;スコープを決める&lt;/h2&gt;
