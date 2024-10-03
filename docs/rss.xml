@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Oct 2024 23:35:35 GMT</lastBuildDate><item><title><![CDATA[設計書作成に必要なメモ]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2565155144/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2565155144/</guid><pubDate>Thu, 03 Oct 2024 23:34:07 GMT</pubDate><content:encoded>&lt;p&gt;最近設計書を最近書くことが多い。たた同じ設計書というテーマを切り取っても、情報が過不足なく書かれて分かりやすいものと、過不足が多く分かりにくい内容となっているものがある。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Oct 2024 23:38:30 GMT</lastBuildDate><item><title><![CDATA[設計書に必要な要素]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2565155144/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2565155144/</guid><pubDate>Thu, 03 Oct 2024 23:36:40 GMT</pubDate><content:encoded>&lt;p&gt;最近設計書を最近書くことが多い。たた同じ設計書というテーマを切り取っても、情報が過不足なく書かれて分かりやすいものと、過不足が多く分かりにくい内容となっているものがある。&lt;/p&gt;
 &lt;p&gt;設計へ関わるにつれ、良い設計書・悪い設計書を感覚的に判断できるようになってきた。そうやって玉石混交の設計書を見たものの、書き手としてその経験をうまく活かせていないと感じる。&lt;/p&gt;
 &lt;p&gt;良いなと思った設計書の要素について言語化してみる。体系的にまとめられている文献もあるはずなので、そっちも近々読んでいきたい部分ではある。&lt;/p&gt;
 &lt;p&gt;自分の経験が、既存システムの改修ベースであるため、その前提に立った目線となる。ゼロベースからのシステム構築はまた考慮ポイントも変わりそう。&lt;/p&gt;
@@ -6,22 +6,22 @@
 &lt;p&gt;より業務・要望に違いステークホルダーへ向けて書く項目。なぜやるか、どの機能をやるか…といった部分を書く。&lt;/p&gt;
 &lt;h3&gt;目的&lt;/h3&gt;
 &lt;p&gt;設計書の機能導入に至った経緯。影響範囲の調査にも役立つ部分となる。具体的に言い切るのも必要だが、言い過ぎない。システムを導入して顧客満足度を高める。みたいな表現は、何にでも当てはまるため避けたい。&lt;/p&gt;
-&lt;p&gt;###前提条件
-上手い設計者は前提条件の設定が上手い気がする。対顧客にとっては期待値のズレを減らせるし、対開発メンバーにとっては、影響範囲・考慮部分を明示的に伝えられる。&lt;/p&gt;
+&lt;h3&gt;前提条件&lt;/h3&gt;
+&lt;p&gt;上手い設計者は前提条件の設定が上手い気がする。対顧客にとっては期待値のズレを減らせるし、対開発メンバーにとっては、影響範囲・考慮部分を明示的に伝えられる。&lt;/p&gt;
 &lt;p&gt;自分の性格的に、よくここを覆されるとどうしようと悩んでしまうが、キリがないので考えない。&lt;/p&gt;
 &lt;p&gt;ただ、システム的に改修が容易と想定できる部分において前提は切らない。（例えば商品マスタに保存されている情報を出す出さないの表示など）&lt;/p&gt;
-&lt;p&gt;###追加機能
-設計書の実装をすることで、ステークホルダーは何を実現できるのかを書いている。例えば、「会員情報の変更機能」だと以下のイメージ。&lt;/p&gt;
+&lt;h3&gt;追加機能&lt;/h3&gt;
+&lt;p&gt;設計書の実装をすることで、ステークホルダーは何を実現できるのかを書いている。例えば、「会員情報の変更機能」だと以下のイメージ。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;パスワードを除く会員の各種情報を変更できる&lt;/li&gt;
 &lt;li&gt;メールアドレスが変更された時、変更前・変更後のメールアドレスそれぞれで変更メールを受信できる&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###対応範囲
-機能ベースで対応範囲を書く。既存機能の改修か新規機能の追加か。またそれぞれの機能に対してカスタマイズ概要を箇条書きで書く。&lt;/p&gt;
+&lt;h3&gt;対応範囲&lt;/h3&gt;
+&lt;p&gt;機能ベースで対応範囲を書く。既存機能の改修か新規機能の追加か。またそれぞれの機能に対してカスタマイズ概要を箇条書きで書く。&lt;/p&gt;
 &lt;p&gt;個人的な感覚として8割くらいは既存機能の改修が入る気がする。もし存在しているのであれば、関連する設計書の導線もあると良い。&lt;/p&gt;
-&lt;p&gt;##基本設計
-###アクセス制御
-アクセス権限や導線表示条件などを書く。
+&lt;h2&gt;基本設計&lt;/h2&gt;
+&lt;h3&gt;アクセス制御&lt;/h3&gt;
+&lt;p&gt;アクセス権限や導線表示条件などを書く。
 上手い人は、上に見出しを書きそれぞれ項目を書き出していることが多い。これは設計書全体で統一されている。&lt;/p&gt;
 &lt;p&gt;▼イメージ&lt;/p&gt;
 &lt;table&gt;
@@ -48,15 +48,15 @@
 &lt;h3&gt;表示項目&lt;/h3&gt;
 &lt;p&gt;どのテーブルの何のカラムからデータを表示するかを書く。ここは様々な意見があるのを承知だが、表示項目の各種内容に対してSQLライクな抽出条件が書かれている方が個人的にわかりやすいと感じた。&lt;/p&gt;
 &lt;p&gt;ただ、お客様提示資料にどこまで載せるかといった部分は案件によってよりけりだと思う。&lt;/p&gt;
-&lt;p&gt;###入力項目・制御
-機能単位でユーザーに入力されうる項目についての制御情報。何をどう言う形式で受け入れるかといった内容を書く。&lt;/p&gt;
+&lt;h3&gt;入力項目・制御&lt;/h3&gt;
+&lt;p&gt;機能単位でユーザーに入力されうる項目についての制御情報。何をどう言う形式で受け入れるかといった内容を書く。&lt;/p&gt;
 &lt;p&gt;ユーザーが自由に入力・編集できる項目は、SQLインジェクションなどがあり危険なため、制御も明示的に書かれておる。「半角英数字のみ」などがよくある。&lt;/p&gt;
 &lt;p&gt;後述の画面設計図と組み合わせて書かれていることも多いイメージ。&lt;/p&gt;
-&lt;p&gt;###画面設計図
-画面レイアウトや入出力項目の画面イメージに該当するもので、どこに何が配置されるかや、それぞれの要素の名称・アクション名・備考等を書く。図式することが多い。設計者の腕の見せ所でもある。&lt;/p&gt;
-&lt;p&gt;####画面遷移図
-画面上でアクションを実行した場合の遷移先を示す。正常系だけでなく、エラー時の遷移も行う。画面設計図に合わせて描かれることも多い。&lt;/p&gt;
-&lt;h4&gt;参考&lt;/h4&gt;
+&lt;h3&gt;画面設計図&lt;/h3&gt;
+&lt;p&gt;画面レイアウトや入出力項目の画面イメージに該当するもので、どこに何が配置されるかや、それぞれの要素の名称・アクション名・備考等を書く。図式することが多い。設計者の腕の見せ所でもある。&lt;/p&gt;
+&lt;h4&gt;画面遷移図&lt;/h4&gt;
+&lt;p&gt;画面上でアクションを実行した場合の遷移先を示す。正常系だけでなく、エラー時の遷移も行う。画面設計図に合わせて描かれることも多い。&lt;/p&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://xtech.nikkei.com/it/article/COLUMN/20090108/322455/&quot;&gt;画面の構造は物理的・論理的に示す&lt;/a&gt;
 &lt;a href=&quot;https://www.ipa.go.jp/archive/files/000004517.pdf&quot;&gt;機能要件の合意形成ガイド&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[知らない事への恐怖に向き合う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2554691194/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2554691194/</guid><pubDate>Wed, 02 Oct 2024 12:59:13 GMT</pubDate><content:encoded>&lt;p&gt;思い通りにいかずに、冷静な判断ができなくなったり、焦って思ってもいないことを口に出して後悔する。特に抽象的な課題と向き合うようになって、そのような場面に陥りがちだったりする。&lt;/p&gt;
 &lt;p&gt;アンガーマネジメントの手法とかもあるのは知っているが、ケースバイケースで考えるほうがしっくりくるので、自分がどういうときに冷静になれないかをざっくりまとめる。&lt;/p&gt;
