@@ -10,7 +10,7 @@
 module.exports = {
   pathPrefix: `/s0uqBlog`,
   siteMetadata: {
-    title: `s0uq Blog`,
+    title: `s0uq's Blog`,
     author: {
       name: `スーク`,
       summary: `PHP VB.net C# .`,
@@ -103,7 +103,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "s0uq'S Blog RSS Feed",
           },
         ],
       },
@@ -111,8 +111,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `s0uq's Blog`,
+        short_name: `souq`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
