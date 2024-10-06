@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Oct 2024 03:15:41 GMT</lastBuildDate><item><title><![CDATA[自分のGitの運用方法]]></title><description><![CDATA[何人かのメンバーに同時並行的に発生する課題をお願いする機会が増えてきた。GitFlow…]]></description><link>https://scrymee.github.io/s0uqBlog/2568435653/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2568435653/</guid><pubDate>Sun, 06 Oct 2024 03:14:05 GMT</pubDate><content:encoded>&lt;p&gt;何人かのメンバーに同時並行的に発生する課題をお願いする機会が増えてきた。GitFlowをベースにした開発手法はもちろん知っているが、どう言う方針で進めていくかに自分の考えを整理しておく。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Oct 2024 04:20:38 GMT</lastBuildDate><item><title><![CDATA[自分のGitの運用方法]]></title><description><![CDATA[何人かのメンバーに同時並行的に発生する課題をお願いする機会が増えてきた。GitFlow…]]></description><link>https://scrymee.github.io/s0uqBlog/2568435653/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2568435653/</guid><pubDate>Sun, 06 Oct 2024 03:14:05 GMT</pubDate><content:encoded>&lt;p&gt;何人かのメンバーに同時並行的に発生する課題をお願いする機会が増えてきた。GitFlowをベースにした開発手法はもちろん知っているが、どう言う方針で進めていくかに自分の考えを整理しておく。&lt;/p&gt;
 &lt;h2&gt;基本構造は主ブランチと従ブランチ&lt;/h2&gt;
 &lt;p&gt;最小構成要素 を主ブランチとし、そこから派生するブランチとして従ブランチがある。主ブランチは、関わる人全員で確認しうるという部分で切り分ける。従ブランチは、主ブランチの一部機能という役割を持つ。&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;____________  主ブランチ
@@ -11,17 +11,19 @@
       \_____  ブランチC&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;これ以上分割できない最小ブランチにfeatureプレフィックスをつける&lt;/h2&gt;
 &lt;p&gt;自分が開発してる案件では、featureプレフィクスは、作業者が基本的に1人で、リモートリポジトリの強制的変更が可能なブランチにつけてもらっています。
-具体的には以下の破壊的変更が容認されるケースとしています
-git push --force-with-lease
-git rebase 主ブランチ&lt;/p&gt;
+具体的には以下のようにコミットログに対して破壊的変更が容認されるケースとしています&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git push --force-with-lease
+git rebase 主ブランチ&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;リリースの単位・featureにしていたところ規模の大きい開発だと、複数メンバーが関わるため、featureからさらにfeatureブランチを切る…となりプレフィックスが煩雑になったからです。&lt;/p&gt;
 &lt;h2&gt;ブランチの切り方&lt;/h2&gt;
-&lt;p&gt;開発環境は以下の4パターン用意した方が良いというのをみたことがある。業務に近いところから開発に近いところまで、それぞれの環境で確認する目的が異なるからという論説だったと記憶している。
-①本番
-②検収
-③結合
-④開発（ローカル）&lt;/p&gt;
-&lt;p&gt;それがしっくりきたので、ブランチも同じように環境ごとに用意した方が良いと思っている。&lt;/p&gt;
+&lt;p&gt;開発環境は以下の4パターン用意した方が良いというのをみたことがある。業務に近いところから開発に近いところまで、それぞれの環境で確認する目的が異なるからという論説だったと記憶している。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;①本番&lt;/li&gt;
+&lt;li&gt;②検収&lt;/li&gt;
+&lt;li&gt;③結合&lt;/li&gt;
+&lt;li&gt;④開発（ローカル）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;それがしっくりきたので、ブランチも同じように環境ごとに用意した方が良いと思っています。&lt;/p&gt;
 &lt;h3&gt;本番ブランチ&lt;/h3&gt;
 &lt;p&gt;リリース済みのブランチとする。hotfixを除き、検収ブランチからのMergeコミットしか反映されないはず。ただ、後述するように本ブランチはなく、検収ブランチがこの役割となることが多いイメージ。&lt;/p&gt;
 &lt;h3&gt;検収ブランチ&lt;/h3&gt;
