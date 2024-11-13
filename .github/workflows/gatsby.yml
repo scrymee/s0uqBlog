@@ -80,6 +80,7 @@ jobs:
            ---
 
            $POST_BODY
+           EOF
       - name: 静的ファイルの生成とgithubpage用リネーム(Build with gatsby)
         run: |
           pwd
