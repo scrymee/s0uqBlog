@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Oct 2024 02:55:44 GMT</lastBuildDate><item><title><![CDATA[「記憶力を強くする」備忘録]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2616268674/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2616268674/</guid><pubDate>Sun, 27 Oct 2024 02:54:15 GMT</pubDate><content:encoded>&lt;p&gt;池谷裕二 著の「記憶力を強くする」を読んだ。脳科学の観点で脳の部位の記憶を司る要素を学べる本だった。簡単な備忘録をまとめておく。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Nov 2024 03:26:41 GMT</lastBuildDate><item><title><![CDATA[「嘘をついていない」と言えるように準備する]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2654010596/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2654010596/</guid><pubDate>Wed, 13 Nov 2024 03:25:22 GMT</pubDate><content:encoded>&lt;p&gt;解像度が高くプロジェクトの遂行力の高い上司に言われた意見の中で、これはいいなと思ったものがあったので、ざっくりまとめる。&lt;/p&gt;
+&lt;h2&gt;嘘をつかない&lt;/h2&gt;
+&lt;p&gt;仕事をしていると、何かしらの自分の意見や考えを伝えることも多い。そのようなとき、第三者から突っ込まれても、回答できるかという視点で見ていくのが肝心。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;できるかわからないものを「出来る」という&lt;/li&gt;
+&lt;li&gt;やると言っていないことを、「やる」と書く&lt;/li&gt;
+&lt;li&gt;裏付けが取れていないものをあたかも事実のように書く&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こういったものは、経験上多くが「嘘を吐こう」と思って言ったものではない。むしろ出癖だったり、締め切りや体調の兼ね合いでつい口から出た…みたいなことが多い。
+例えば、前株のところを「○○株式会社 様」と書いてしまった。画面仕様書にて不要なインタラクション要素を出癖で書いてしまった。ラベル名称は他機能との命名を意識せず、出癖で書いてしまった…など。&lt;/p&gt;
+&lt;p&gt;うっかりの嘘も、それをきっかけに大きな問題を引き起こすことにつながる。リリース直前に発覚した表記揺れの対応に終電間際までバタついたこともある。&lt;/p&gt;
+&lt;p&gt;ここで言いたいのは、ポリシーを持つということ。
+他人に言われたから…とか、前の資料がそう書かれてたから…ではなく、自分なりの裏付けや根拠を明確にしていくことが大事。&lt;/p&gt;
+&lt;p&gt;そういう上司も自分が数週間前に作成した資料を見て「なんでここ色つけだったんだっけなあ」と悩んでいた。物事の大小を問わず、すべてのアウトプットに理由を持っていくと、物事の解像度が上がる。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「記憶力を強くする」備忘録]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2616268674/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2616268674/</guid><pubDate>Sun, 27 Oct 2024 02:54:15 GMT</pubDate><content:encoded>&lt;p&gt;池谷裕二 著の「記憶力を強くする」を読んだ。脳科学の観点で脳の部位の記憶を司る要素を学べる本だった。簡単な備忘録をまとめておく。&lt;/p&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;記憶は刺激が好き&lt;/p&gt;
 &lt;h2&gt;何が重要か&lt;/h2&gt;
