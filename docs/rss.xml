@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Jan 2025 11:16:57 GMT</lastBuildDate><item><title><![CDATA[プロジェクト管理のTips]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2782396844/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2782396844/</guid><pubDate>Sun, 12 Jan 2025 10:35:38 GMT</pubDate><content:encoded>&lt;p&gt;進捗管理をするようになった。関連の情報を漁るなかで良いなと思った考え方を雑にまとめる&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jan 2025 06:07:05 GMT</lastBuildDate><item><title><![CDATA[プロジェクト管理のTips]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2782396844/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2782396844/</guid><pubDate>Sun, 12 Jan 2025 10:35:38 GMT</pubDate><content:encoded>&lt;p&gt;進捗管理をするようになった。関連の情報を漁るなかで良いなと思った考え方を雑にまとめる&lt;/p&gt;
 &lt;h1&gt;チームの進捗管理&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;問題がおきたらすぐに対処して被害を最小限に抑える&lt;/p&gt;
@@ -28,7 +28,9 @@
 &lt;blockquote&gt;
 &lt;p&gt;スプリントに入る前に事前に「機能として何ができていれば完成なのか」「それはどうやってテストできるのか」等が合意できているものだけを着手してください。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ryuzee.com/faq/0007/&quot;&gt;1つのプロダクトバックログアイテムが大きくて1スプリントでは作れません。複数スプリントにまたいで開発していいですか？&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[引越しtodo]]></title><description><![CDATA[wbs用に大項目は4個、中項目は10個、小項目は40個くらいにしておく…]]></description><link>https://scrymee.github.io/s0uqBlog/2773942319/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2773942319/</guid><pubDate>Tue, 07 Jan 2025 23:39:39 GMT</pubDate><content:encoded>&lt;p&gt;wbs用に大項目は4個、中項目は10個、小項目は40個くらいにしておく&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ryuzee.com/faq/0007/&quot;&gt;1つのプロダクトバックログアイテムが大きくて1スプリントでは作れません。複数スプリントにまたいで開発していいですか？&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;エンジニア前半&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://yoshi389111.github.io/kinokobooks/prog_ja/index.html&quot;&gt;プログラマが知るべき 97 のこと&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[引越しtodo]]></title><description><![CDATA[wbs用に大項目は4個、中項目は10個、小項目は40個くらいにしておく…]]></description><link>https://scrymee.github.io/s0uqBlog/2773942319/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2773942319/</guid><pubDate>Tue, 07 Jan 2025 23:39:39 GMT</pubDate><content:encoded>&lt;p&gt;wbs用に大項目は4個、中項目は10個、小項目は40個くらいにしておく&lt;/p&gt;
 &lt;h1&gt;1.物件探し〜&lt;/h1&gt;
 &lt;ul class=&quot;contains-task-list&quot;&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; 入居先要件定義&lt;/li&gt;
