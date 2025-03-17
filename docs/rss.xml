@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jan 2025 06:07:05 GMT</lastBuildDate><item><title><![CDATA[プロジェクト管理のTips]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2782396844/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2782396844/</guid><pubDate>Sun, 12 Jan 2025 10:35:38 GMT</pubDate><content:encoded>&lt;p&gt;進捗管理をするようになった。関連の情報を漁るなかで良いなと思った考え方を雑にまとめる&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Mar 2025 00:03:14 GMT</lastBuildDate><item><title><![CDATA[身近なものを大切にする]]></title><description><![CDATA[問題や課題に直面した時、学ぶ必要性を感じることがある。そういったときに、学びを得る手段について、雑にまとめる ググる とりあえずまずはインターネットに頼ってみる。noteやQiita…]]></description><link>https://scrymee.github.io/s0uqBlog/2923409553/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2923409553/</guid><pubDate>Mon, 17 Mar 2025 00:01:55 GMT</pubDate><content:encoded>&lt;p&gt;問題や課題に直面した時、学ぶ必要性を感じることがある。そういったときに、学びを得る手段について、雑にまとめる&lt;/p&gt;
+&lt;h2&gt;ググる&lt;/h2&gt;
+&lt;p&gt;とりあえずまずはインターネットに頼ってみる。noteやQiitaに解決策が書かれて課題が解決する時もあるし、書き手の熱量から漠然とした前向きな姿勢につながる時もある。
+ただ、課題を明確に言語化できていないようなときや、特殊なケースであるがゆえに事例を探れない時はあまり向かない。&lt;/p&gt;
+&lt;h2&gt;AIに雑に投げる&lt;/h2&gt;
+&lt;p&gt;最近はググるより、AIに尋ねることが多くなってきてる。一般的な課題においては、漏れなくダブりなく一般論をベースにした解決策を教えてくれる。
+課題が明確でない時や、課題を認識するうえでの前提知識が不足しているとき、そういったが模索中の時は良い壁打ち役になる。&lt;/p&gt;
+&lt;h2&gt;本を読む&lt;/h2&gt;
+&lt;p&gt;本もいまだに強い。編集者や書き手のコストがかかって出版されているため、主張に事実が裏打ちされていたり、主張が明白だったりする。玉石混合な点は否めないが、それでもインターネットよりはその比率は少ないと感じる。
+包括的な知識を学ぶ…という点はAIに置き換わるかもしれないが、全体像を掴む、だったり、より専門的な知識を学ぶときは本場強い。&lt;/p&gt;
+&lt;h2&gt;周りを見渡す&lt;/h2&gt;
+&lt;p&gt;本やテレビ、インターネット記事や動画、映画や芸術作品…などいろんな方法で情報を集めることができるようになった。ただ、それらと同じくらいに自分の身の回りから学ぶこともできる。
+人に優しくしたいと思った時、自分が普段どういう時にやさしくされたと感じるのか…。仕事で特定の課題について困った時に、上司や周りの人はどう解決しているのか…。
+情報収集が手軽になったけれども、身近な経験から学ぶこともある。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[プロジェクト管理のTips]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2782396844/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2782396844/</guid><pubDate>Sun, 12 Jan 2025 10:35:38 GMT</pubDate><content:encoded>&lt;p&gt;進捗管理をするようになった。関連の情報を漁るなかで良いなと思った考え方を雑にまとめる&lt;/p&gt;
 &lt;h1&gt;チームの進捗管理&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;問題がおきたらすぐに対処して被害を最小限に抑える&lt;/p&gt;
