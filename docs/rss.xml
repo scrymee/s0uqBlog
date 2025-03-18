@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Mar 2025 23:18:45 GMT</lastBuildDate><item><title><![CDATA[「正しく言う」と「嘘をつかない」は違う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2926610530/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2926610530/</guid><pubDate>Mon, 17 Mar 2025 23:17:33 GMT</pubDate><content:encoded>&lt;p&gt;上司から繰り返し教えてもらうことの一つに「嘘をつかない」と言うのがある。よく似た言葉として「正しく言うこと」があるが、こっちはあまり言われない。この違いについてなんとなく分かってきたので雑にまとめる。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[s0uq'S Blog RSS Feed]]></title><description><![CDATA[WIP.]]></description><link>https://scrymee.github.io/s0uqBlog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Mar 2025 22:54:17 GMT</lastBuildDate><item><title><![CDATA[プロジェクト管理の不安と向き合う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2930025785/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2930025785/</guid><pubDate>Tue, 18 Mar 2025 22:53:01 GMT</pubDate><content:encoded>&lt;p&gt;不確かな課題や問題に出くわしたとき、不安を感じる。不安がストレスに繋がってしまうこともあり、あまり良くない。どういうときに不安がないか…というときを雑にまとめる&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ゴールが明確で成果物やアウトプットが明確になっている&lt;/li&gt;
+&lt;li&gt;作業が細分化されておりステップバイステップで実施できる&lt;/li&gt;
+&lt;li&gt;暗黙的な部分を判断するための材料・背景・手段を持ち合わせている&lt;/li&gt;
+&lt;li&gt;成果物が期限までの完了を担保する方法が明確になっている&lt;/li&gt;
+&lt;li&gt;成果物の達成を裏付けるスキル・経験を持っている&lt;/li&gt;
+&lt;li&gt;無茶な作業になっておらず、十分な作業時間を担保できる&lt;/li&gt;
+&lt;li&gt;問題が発生したときのフローについて対策を持ち合わせている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;逆説的な発想だけど、不安がない状態を考える。それは全てが既知のときだと思う。スキルも技術も経験も十分で、何があるかほとんど予測できる、仮に想定外のことが起きても対処法の心得がある…というとき、個人的にだけど不安はほぼなくなる。&lt;/p&gt;
+&lt;p&gt;周りの優秀なマネージャーを見ていると、不安があるときの働きかけ方が上手い人が多い。アサインが足りないなら人員を確保し、スキルが足りないなら他の人へ展開し、不確かな部分があるなら顧客への展開をしている。自分一人でできないこともあるのを理解して、他人にもどんどん頼っている。&lt;/p&gt;
+&lt;p&gt;実際のところ、多方面の兼ね合いもありもっと複雑だったり、事前に備えていても突発的な事象も起こりうる。そういうときに、上手く調整・整理にも時間をかけていくのがプロジェクト管理の仕事だろうと思う。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「正しく言う」と「嘘をつかない」は違う]]></title><description><![CDATA[…]]></description><link>https://scrymee.github.io/s0uqBlog/2926610530/</link><guid isPermaLink="false">https://scrymee.github.io/s0uqBlog/2926610530/</guid><pubDate>Mon, 17 Mar 2025 23:17:33 GMT</pubDate><content:encoded>&lt;p&gt;上司から繰り返し教えてもらうことの一つに「嘘をつかない」と言うのがある。よく似た言葉として「正しく言うこと」があるが、こっちはあまり言われない。この違いについてなんとなく分かってきたので雑にまとめる。&lt;/p&gt;
 &lt;h2&gt;「正しく言う」は網羅的に伝える&lt;/h2&gt;
 &lt;p&gt;「正しく言う」は、主張や経緯を余すことなく伝えること。感覚的だけど、重要な判断を行うとき、状況を詳細に把握する時に求められることが多い。正しい判断を行うために、理由や原因、些細な関連ごとですら余すとこなく共有しておく。
 それ以外にも、何かをお願いするときだったり、判断を委ねるときは「正しく言う」ことは、方向性のブレもなく良い。&lt;/p&gt;
